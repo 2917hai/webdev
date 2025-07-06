@@ -1,4 +1,4 @@
-@media only screen and (max-width: 351px) {
+@media(max-width: 351px) {
    
 .nav {
     display: flex;
